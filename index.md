@@ -1,5 +1,7 @@
 # Centilmentik matrix
+
 Çalışanların savunma sanayi şirketleri arasında iş değiştirmesini engelleyen gizli centilmentik anlaşmalarını görünür kılmak istiyoruz.
+
 
 | #                  | ASELSAN           | HAVELSAN          | TAİ               | TEİ               | ROKETSAN          | ASPILSAN          | STM               | BAYKAR            | BITES             | C2TECH            | ESEN              | SIMSOFT           | SAVRONIK          | ENGINSOFT         | VESTEL SAVUNMA    | METEKSAN          | ALP HAVACILIK     | THY TEKNIK        | AYESAŞ            | ALTAY             | EHSİM             | ICTERRA           | NETAŞ             | SDT               | KOÇ SİSTEM        | MİLSOFT           | ONUR              | BMC               | FNSS              | NUROL             | OTOKAR            |
 |:-----------        |:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
